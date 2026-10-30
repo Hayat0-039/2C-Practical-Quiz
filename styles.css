@@ -94,7 +94,10 @@ img {
 /* TASK 4: Darken the photo so the heading is easy to read: blend the
    hero's background image with its brown background colour using
    the multiply blend mode. */
-
+.hero {
+  background-color: brown;
+  background-blend-mode: multiply;
+}
 
 
 /* TASK 5: Give the .hero h1 a text shadow:
