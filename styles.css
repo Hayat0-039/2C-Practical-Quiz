@@ -102,7 +102,9 @@ img {
 
 /* TASK 5: Give the .hero h1 a text shadow:
    2px 2px 6px rgba(0, 0, 0, 0.6) */
-
+.hero h1 {
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
+}
 
 
 /* TASK 6: Make every .card image the same shape with an aspect
