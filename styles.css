@@ -95,7 +95,6 @@ img {
    hero's background image with its brown background colour using
    the multiply blend mode. */
 .hero {
-  background-color: brown;
   background-blend-mode: multiply;
 }
 
